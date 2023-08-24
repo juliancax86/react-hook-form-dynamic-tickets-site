@@ -1,3 +1,4 @@
-# react-hook-form-dynamic-tickets-site
-
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-hook-form-dynamic-form-example-fxodhr)
+# React Tickets Forms
+- React hook forms
+- Bootstrap
+- One component  React project
