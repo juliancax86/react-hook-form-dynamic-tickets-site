@@ -1,0 +1,21 @@
+{
+  "name": "react-hook-form-dynamic-form-example",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@hookform/resolvers": "^0.1.1",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-hook-form": "^6.8.6",
+    "yup": "^0.29.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}
